@@ -51,7 +51,10 @@ coverage.xml
 .pytest_cache/
 cover/
 data
-
+project
+sloi
+*.html
+*.geojson
 # Translations
 *.mo
 *.pot
